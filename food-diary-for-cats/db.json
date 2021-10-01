@@ -1,0 +1,190 @@
+
+  "meats": [
+
+    {
+      "id": 1 ,
+      "name": "chicken" ,
+      "calories-per-100g": 127
+    },
+
+    {
+      "id": 2,
+      "name": "lamb" ,
+      "calories-per-100g": 222
+    },
+
+    {
+      "id": 3,
+      "name": "pheasant" ,
+      "calories-per-100g": 254
+    }
+    
+    {
+        "id": 4,
+        "name": "veal" ,
+        "calories-per-100g": 131
+      },
+
+      
+    {
+        "id": 5,
+        "name": "boar" ,
+        "calories-per-100g": 109
+      },
+
+      
+    {
+        "id": 6,
+        "name": "goose" ,
+        "calories-per-100g": 155
+      },
+
+      
+    {
+        "id": 7,
+        "name": "turkey" ,
+        "calories-per-100g": 108
+      },
+
+      
+    {
+        "id": 8,
+        "name": "deer" ,
+        "calories-per-100g": 113
+      },
+
+      {
+        "id": 9,
+        "name": "duck" ,
+        "calories-per-100g": 119
+      },
+
+      {
+        "id": 10,
+        "name": "horse" ,
+        "calories-per-100g": 145
+      },
+
+      {
+        "id": 11,
+        "name": "goat" ,
+        "calories-per-100g": 149
+      },
+
+      {
+        "id": 12,
+        "name": "rabbit" ,
+        "calories-per-100g": 125
+      },
+
+      {
+        "id": 13,
+        "name": "sheep" ,
+        "calories-per-100g": 301
+      },
+
+      {
+        "id": 14,
+        "name": "quail" ,
+        "calories-per-100g": 175
+      },
+
+      {
+        "id": 15,
+        "name": "venison" ,
+        "calories-per-100g": 122
+      },
+
+      {
+        "id": 16,
+        "name": "ostrich" ,
+        "calories-per-100g": 150
+      },
+
+      {
+        "id": 17,
+        "name": "pork" ,
+        "calories-per-100g": 267
+      },
+
+      {
+        "id": 18,
+        "name": "beef" ,
+        "calories-per-100g": 254
+      },
+
+      {
+        "id": 19,
+        "name": "hare" ,
+        "calories-per-100g": 124
+      },
+
+      {
+        "id": 20,
+        "name": "cod" ,
+        "calories-per-100g": 98
+      },
+
+      {
+        "id": 21,
+        "name": "fluke" ,
+        "calories-per-100g": 87
+      },
+
+      {
+        "id": 22,
+        "name": "halibut" ,
+        "calories-per-100g": 115
+      },
+
+      {
+        "id": 23,
+        "name": "shrimp" ,
+        "calories-per-100g": 75
+      },
+
+      {
+        "id": 24,
+        "name": "salmon" ,
+        "calories-per-100g": 196
+      },
+
+      {
+        "id": 25,
+        "name": "perch" ,
+        "calories-per-100g": 84
+      },
+
+      {
+        "id": 26,
+        "name": "trout" ,
+        "calories-per-100g": 118
+      },
+
+      {
+        "id": 27,
+        "name": "sole" ,
+        "calories-per-100g": 81
+      },
+
+      {
+        "id": 28,
+        "name": "pike" ,
+        "calories-per-100g": 84
+      },
+
+      {
+        "id": 29,
+        "name": "tuna" ,
+        "calories-per-100g": 130
+      },
+
+      {
+        "id": 30,
+        "name": "eel" ,
+        "calories-per-100g": 323
+      }
+      
+  ]
+
+}
